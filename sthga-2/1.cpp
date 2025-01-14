@@ -779,7 +779,7 @@ bool deployOK() {
         field[i] = 0;
     }
 
-    return flag;
+    return flag;//
 }
 
 void readInst() {
