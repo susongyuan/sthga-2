@@ -1,0 +1,7 @@
+N	R	field	yita	Up	TRIAL	pop	K1	K2	Gm	MUI	best	mean	worst	evalFit	ok%	avgT(ms)
+2500	5	6393	3.73999	21	30	3	5	5	100	0.5	20	18.6333	18	15003	0%	47433.5
+N	R	field	yita	Up	TRIAL	pop	K1	K2	Gm	MUI	best	mean	worst	evalFit	ok%	avgT(ms)
+N	R	field	yita	Up	TRIAL	pop	K1	K2	Gm	MUI	best	mean	worst	evalFit	ok%	avgT(ms)
+2500	5	6392	8.72665	9	30	3	5	5	100	0.5	9	9	9	1862	100%	10530.6
+N	R	field	yita	Up	TRIAL	pop	K1	K2	Gm	MUI	best	mean	worst	evalFit	ok%	avgT(ms)
+2500	5	6391	4.61999	17	30	3	5	5	100	0.5	17	17	17	5013	100%	18954.4

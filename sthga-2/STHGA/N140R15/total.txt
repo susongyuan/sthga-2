@@ -1,0 +1,2 @@
+N	R	field	yita	Up	TRIAL	pop	K1	K2	Gm	MUI	best	mean	worst	evalFit	ok%	avgT(ms)
+140	15	90	6.59734	6	30	3	5	5	100	0.5	6	6	6	100	100%	5.4
